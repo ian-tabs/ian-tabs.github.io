@@ -6,7 +6,7 @@ This project is a simple dynamic directory of all my repositories and other cont
 
 I started this repository to learn new development tools that allows building more effectively; e.g. TypeScript, WebPack, & more.
 
-I refrained from using a framework to exercise writing modular and further utilize the fundamentals of Web Development.
+I refrained from using a framework to exercise writing modular and further utilize the fundamentals of software design.
 
 Check out other cool stuff that I'm working on [here](https://ian-tabs.github.io/)!!
 
