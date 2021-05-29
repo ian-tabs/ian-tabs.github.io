@@ -10,8 +10,4 @@ For this project, I refrained from using a framework to exercise writing modular
 
 Check out the [page](https://ian-tabs.github.io/) & other cool stuff that I'm working on!
 
-### before you go...
-
-Dont forget to say 'Hi' to **_jenny.ts_** from **_src/scripts-ts_**. See how hard she works to make sure the page runs smoothly.
-
 I hope you enjoy reading and reviewing my work as much as I did while I was writing it!
